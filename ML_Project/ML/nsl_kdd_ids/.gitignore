@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+data/*.txt
+data/*.csv
+results/
+docs/*.pdf
+docs/*.pptx
